@@ -74,6 +74,6 @@ for x in range(1,30):
 
 ```
 #
-These are the basics of markdown I hope this helps.
+These are the basics of markdown I hope this helps. See the readme for ways to impliment these
 
 
