@@ -136,11 +136,7 @@ for x in range(1,30):
 
 ```
 #
-[] item1
 
-[x] item2 selected
-
-[] item3
 
 **These are the basics of markdown I hope this helps.**
 
