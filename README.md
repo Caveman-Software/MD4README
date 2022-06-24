@@ -1,8 +1,10 @@
 **Markdown Examples**
 
+use: 
+
 ```markdown
 
-use: 
+
 ```language
 fenced markdown``` 
 
@@ -12,48 +14,70 @@ The language is the programming language like Python,Javascript,css,html etc...
 #
 **Bold Text**
 
+use: 
+
 ```markdown
-use: **Bold Text**
+**Bold Text**
 ```
 #
 
 **term**
 : definition
 
-```markdown
 use:
+
+```markdown
+
 term
 :definition
 ```
 #
 # Heading 1
+
+use:
+
 ```markdown
-use: # Heading 1 size
+# Heading 1 size
 ```
 #
 ## Heading 2
+
+use: 
+
 ```markdown
-use: ## Heading 2 size
+## Heading 2 size
 ```
 #
 ### Heading 3
+
+use: 
+
 ```markdown
-use: ### Heading 3 size
+### Heading 3 size
 ```
 #
 #### Heading 4
+
+use: 
+
 ```markdown
-use: #### Heading 4 size
+#### Heading 4 size
 ```
 #
 ##### Heading 5
+
+use: 
+
 ```markdown
-use: ###### Heading 5 size
+###### Heading 5 size
 ```
 #
 ###### Heading 6
+
+use: 
+
 ```markdown
-use: ###### Heading 6 size
+###### Heading 6 size
 ```
 
 **Horizontal rule below**
@@ -63,33 +87,47 @@ use: ###### Heading 6 size
 #
 **Image Insert**
 # <img src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png' width='35' height='35'>  Caveman Software® 2022<img src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png' width='20' height='20'> 
+
+use:
+
 ```
 # <img src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png' width='35' height='35'>  Caveman Software® 2022
 ```
 Change the URL and text above to your image link 
 #
-`
-code using backlash`
+`code using single backlash`
+
+use:
+
+```
+`code using single backlash`
+```
 #
 *italic*
 
 ***italic bold***
+
+use: 
+
 ```
-use: *italics* to set text in italics(one astrick on each side)
-use: ***italic bold*** to set italics bold(3 astricks on each side)
+*italics* to set text in italics(one astrick on each side)
+***italic bold*** to set italics bold(3 astricks on each side)
 ```
 #
 [Visible Link Text](https://pypi.org)
+
+use: 
+
 ```markdown
-use: [Visible Link text](https://pypi.org)
+[Visible Link text](https://pypi.org)
 ```
 
 #
 **Ordered List**
 
-```markdown
 use:
 
+```markdown
 1. first
 2. second
 3. third
@@ -97,23 +135,28 @@ use:
 
 #
 **Unordered list** 
-```
+
 use:
 
+```
 - first
 - second
 - third
 ```
 #
 ~~strikethrough~~
-```
+
 use:
+
+```
 ~~strikethrough~~
 ```
 #
 > quote text using '>'
-```
+
 use:
+
+```
 > text to be quoted
 ```
 #
